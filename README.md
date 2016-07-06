@@ -7,6 +7,6 @@
 请预览两个html
 ![demo1](./img/menu_filter.png)
 
-![demo1](./img/menu_tree2.png)
+![demo1](./img/menu-tree2.png)
 
-![demo1](./img/menu_tree3.png)
+![demo1](./img/menu-tree3.png)
